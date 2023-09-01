@@ -6,6 +6,14 @@ MovX is a simple movie app that allows users to browse and discover their favori
 
 ![movx screenshot -2](https://github.com/yoseflakew25/movx-master/blob/main/screeenshot/screeny-2.jpg)
 
+## Features
+
+-Browse and search for movies, TV shows, and actors.
+-View detailed information about each movie, including the cast, release date, and overview.
+-Save movies to your favorites list for easy access.
+-Get recommendations based on your favorite movies.
+-Responsive design for a seamless mobile and desktop experience.
+
 ### Install Dependencies
 
 ```sh
