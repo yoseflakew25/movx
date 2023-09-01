@@ -1,7 +1,6 @@
-# movx
+# MovX
 
-Simple react app that lets you browse for your favorite movies, tv shows, and actors.
-Built with react js | TMDB api
+MovX is a simple movie app that allows users to browse and discover their favorite movies, TV shows, and actors. It is built with React.js and utilizes the TMDB API for fetching movie data.
 
 ![movx screenshot - 1](https://github.com/yoseflakew25/movx-master/blob/main/screeenshot/screeny-1.jpg)
 
