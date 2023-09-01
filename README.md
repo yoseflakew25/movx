@@ -42,3 +42,22 @@ $ npm run dev-server
 ```sh
 $ npm run build
 ```
+## Usage
+
+- Browse Movies, TV Shows, or Actors by using the navigation menu at the top of the page.
+- Search for specific movies, TV shows, or actors by entering keywords in the search bar.
+- Click on a movie or TV show to view more details, including the cast, release date, and overview.
+- Add movies to your favorites list by clicking the heart icon on the movie details page.
+- Access your favorite movies by clicking on the "Favorites" link in the navigation menu.
+- Get personalized movie recommendations based on your favorite movies by clicking on the "Recommendations" link in the navigation menu.
+
+## Contributing
+Contributions are welcome! If you have any ideas, suggestions, or bug reports, please feel free to open an issue or submit a pull request.
+
+## License
+This project is licensed under the MIT License.
+
+## Acknowledgements
+- This project utilizes the TMDB API to fetch movie data.
+- The UI design and layout are inspired by popular movie streaming platforms.
+- Special thanks to the contributors who helped make this project possible.
