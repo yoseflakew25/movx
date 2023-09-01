@@ -3,9 +3,9 @@
 Simple react app that lets you browse for your favorite movies, tv shows, and actors.
 Built with react js | TMDB api
 
-![movx screenshot - 1](https://raw.githubusercontent.com/jgudo/movx/master/static/screeny-1.jpg)
+![movx screenshot - 1](https://github.com/yoseflakew25/movx-master/blob/main/screeenshot/screeny-1.jpg)
 
-![movx screenshot -3](https://raw.githubusercontent.com/jgudo/movx/master/static/screeny-3.jpg)
+![movx screenshot -2](https://github.com/yoseflakew25/movx-master/blob/main/screeenshot/screeny-2.jpg)
 
 ### Install Dependencies
 
